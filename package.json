@@ -36,7 +36,7 @@
   "dependencies": {
     "clone": "^2.1.1",
     "mkdirp": "^0.5.1",
-    "v8-to-istanbul": "^1.2.0",
+    "v8-to-istanbul": "^3.2.3",
     "yargs": "^11.0.0"
   },
   "standard": {
